@@ -1,0 +1,37 @@
+body{
+	background: green;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-family: 'Crete Round', serif;
+}
+
+
+nav li{
+	display: inline;
+	padding-left: 25px;
+}
+header
+{
+	background: #f2f5f9;
+	height: auto;
+    width: 100%;
+    z-index: 100
+
+}
+
+ul a:hover{
+	size: 120%;
+	color:black; 
+	font-weight: bold;
+}
+
+
+footer{
+	font-family: 'Crete Round', serif;
+	bottom: 20px;
+	font-size: 20px;
+	float: left;
+	background-color: red;
+	width:100%;
+}
