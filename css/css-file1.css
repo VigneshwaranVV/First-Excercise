@@ -10,7 +10,8 @@
 #header-tag{
 	float: left;
 	width: 100%;
-	height: 20%;
+	height: 15.6%;
+	position: fixed;
 }
 
 
@@ -83,4 +84,15 @@ ul a:hover{
 
 #loca-img{
 	margin-left: 0px;
+}
+
+
+#Except-header{
+	background-color: red;
+	margin-top: 84px;
+}
+
+
+body{
+	background-color:#4286f4;
 }
